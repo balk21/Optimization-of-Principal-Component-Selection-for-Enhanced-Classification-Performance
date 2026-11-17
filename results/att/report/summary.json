@@ -1,0 +1,37 @@
+{
+  "dataset": "att",
+  "images_fitted": 400,
+  "pixels": 10304,
+  "components": 400,
+  "rank_of_fitted_data": 399,
+  "grid_step": 5,
+  "selected_k": 311,
+  "selected_by": "largest slope",
+  "error_at_k1": 3586.0891011296444,
+  "error_at_selected_k": 422.3414321469344,
+  "reduction_vs_components_pct": 22.25,
+  "reduction_vs_pixels_pct": 96.98,
+  "five_largest_slopes": [
+    [
+      311,
+      -3.6737
+    ],
+    [
+      286,
+      -3.686
+    ],
+    [
+      271,
+      -3.6972
+    ],
+    [
+      266,
+      -3.6997
+    ],
+    [
+      306,
+      -3.7167
+    ]
+  ],
+  "knee_k": 61
+}

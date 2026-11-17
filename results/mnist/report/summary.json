@@ -1,0 +1,37 @@
+{
+  "dataset": "mnist",
+  "images_fitted": 2000,
+  "pixels": 784,
+  "components": 784,
+  "rank_of_fitted_data": 625,
+  "grid_step": 10,
+  "selected_k": 631,
+  "selected_by": "slope ~ 0",
+  "error_at_k1": 1726.9201776922864,
+  "error_at_selected_k": 3.3135145657745394e-05,
+  "reduction_vs_components_pct": 19.52,
+  "reduction_vs_pixels_pct": 19.52,
+  "five_largest_slopes": [
+    [
+      781,
+      0.0
+    ],
+    [
+      771,
+      0.0
+    ],
+    [
+      761,
+      0.0
+    ],
+    [
+      751,
+      0.0
+    ],
+    [
+      741,
+      0.0
+    ]
+  ],
+  "knee_k": 135
+}
